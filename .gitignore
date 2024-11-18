@@ -1,0 +1,20 @@
+# Ignore system files and directories
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore Firebase and other configuration files
+firebase.json
+apphosting.yaml
+
+# Ignore OS-related files (Windows-specific)
+NTUSER.DAT
+Thumbs.db
